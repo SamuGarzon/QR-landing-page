@@ -26,7 +26,7 @@ body {
 
 .main {
     background-color: var(--white-color);
-    max-width: 30rem;
+    max-width: 33rem;
     height: auto;
     border-radius: 2rem;
 }
@@ -48,10 +48,10 @@ body {
     border-radius: 1rem;
 }
 
-.main__container--text p:first-child {
+.main__container--text h1:first-child {
     font-size: 2rem;
     text-align: center;
-    padding: 0 2.5rem 1rem 2.5rem;
+    padding: 0 3rem 1rem 3rem;
     font-weight: 700;
     color: var(--dark-blue);
 }
@@ -60,6 +60,6 @@ body {
     color: var(--grayish-blue);
     text-align: center;
     font-size: 1.5rem;
-    padding: 1rem 2rem 3rem 2rem;
+    padding: 1rem 4rem 3rem 4rem;
     font-weight: 400;
 }
